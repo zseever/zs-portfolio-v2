@@ -1,4 +1,4 @@
-export const Jobs = [
+export const JobsData = [
     {
         jobTitle: 'Student',
         company: 'General Assembly Software Engineering',
