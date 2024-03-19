@@ -1,4 +1,5 @@
 import TechText from "./TechText"
+import React from 'react';
 
 export default function Job({ company, jobTitle, startYear, endYear, description, tags }) {
     return (

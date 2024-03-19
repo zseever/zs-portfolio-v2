@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default function MainButtons() {
     function handleScroll(section) {
         document.getElementById(section).scrollIntoView({behavior: 'smooth'})

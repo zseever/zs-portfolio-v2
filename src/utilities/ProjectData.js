@@ -3,7 +3,7 @@ export const ProjectsData = [
         projectName: 'Portfolio V2',
         technologies: ['React','HTML', 'CSS', 'JavaScript'],
         imgPath: "/images/portfolio-site.png",
-        website:"",
+        website:"https://zs-portfolio-ac18ec80c5a9.herokuapp.com/",
         github:"https://github.com/zseever/zs-portfolio-v2",
         description: "The current web portfolio that displays details about me, my experience, and projects I've worked on and completed, hand built with React",
     },

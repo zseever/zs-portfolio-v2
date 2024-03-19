@@ -102,7 +102,7 @@ button:hover {
   border-color: white;
 }
 
-.button-cont > button:hover, .resume-button:hover, .resume-anchor:hover {
+.button-cont > button:hover {
   margin-left: 5%;
   margin-right:-5%;
 }
@@ -156,6 +156,7 @@ button:hover {
   color:lightgray;
   width:75%;
   text-align: left;
+  gap:1rem;
 }
 
 .job-exp-cont {

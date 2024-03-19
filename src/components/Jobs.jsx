@@ -1,5 +1,6 @@
 import Job from "./Job"
 import { JobsData } from "../utilities/JobData"
+import React from 'react';
 
 export default function Jobs() {
     return (

@@ -1,3 +1,4 @@
+import React from 'react';
 import './App.css';
 import Projects from './components/Projects';
 import Jobs from './components/Jobs';
